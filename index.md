@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 举头望明月，低头思故乡
 
 You can use the [editor on GitHub](https://github.com/xfdxw/kukuku/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
